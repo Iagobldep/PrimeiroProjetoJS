@@ -27,10 +27,12 @@ true       | true       | true
 true       | false      | true
 false      | true       | true
 false      | false      | false
-*/
+
+NOT - O inverso do valor
 
 let ativo = true;
 
 console.log(!ativo);
 
 console.log(!false);
+*/
