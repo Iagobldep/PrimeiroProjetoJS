@@ -19,6 +19,7 @@ O objetivo foi aprender:
 - Utilizar o terminal
 - Criar documento utilizando Markdown
 
+---
 <!--
 git add .
 git commit -m "Atualizando o README"
