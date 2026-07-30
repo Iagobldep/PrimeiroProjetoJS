@@ -22,6 +22,6 @@ O objetivo foi aprender:
 ---
 <!--
 git add .
-git commit -m "Atualizando o README"
+git commit -m "Arquivos criados app, operadores, variavel, informacoes"
 git push
 -->
