@@ -2,9 +2,9 @@
 
 ## Aluno 🍆💦
 
-Nome: Iago Damazio Amorim
-Turma: DS1A
-Professor: Vitor Lima
+Nome: Iago Damazio Amorim<br>
+Turma: DS1A<br>
+Professor: Vitor Lima<br>
 
 ![](https://i.makeagif.com/media/7-13-2021/tpV3Xz.gif)
 ---
