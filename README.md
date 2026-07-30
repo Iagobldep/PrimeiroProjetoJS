@@ -16,6 +16,8 @@ Este projeto foi desenvolvido durante a primeira aula de Javascript.
 O objetivo foi aprender:
 - Utilizar o VS Code;
 
+<!--
 git add .
 git commit -m "Atualizando o README"
 git push
+-->
